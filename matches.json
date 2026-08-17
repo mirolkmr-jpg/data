@@ -1,15 +1,16 @@
 {
   "matches": [
     {
-      "team1": "Algeria",
-      "team1_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1280px-Flag_of_Algeria.svg.png",
-      "team2": "Egypt",
-      "team2_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/960px-Flag_of_Egypt.svg.png?utm_source=ar.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "time": "20:00",
+      "team1": "برشلونة",
+      "team2": "ريال مدريد",
+      "team1_logo": "https://example.com/barcelona.png",
+      "team2_logo": "https://example.com/real.png",
+      "time": "22:00",
       "status": "لم تبدأ",
-      "league": "La Liga",
-      "channel": "beIN SPORTS ",
-      "stream_url": "http://weaseltv.live/play/live.php?mac=00:1A:79:58:2A:EB&stream=1660413&extension=m3u8&play_token=owg45bYfFl"
+      "league": "الدوري الإسباني",
+      "channel": "beIN Sports",
+      "stream_url_1": "http://weaseltv.live/play/live.php?mac=00:1A:79:58:2A:EB&stream=1660413&extension=m3u8&play_token=owg45bYfFl",
+      "stream_url_2": "http://weaseltv.live/play/live.php?mac=00:1A:79:58:2A:EB&stream=1660413&extension=m3u8&play_token=owg45bYfFl"
     }
   ]
 }
