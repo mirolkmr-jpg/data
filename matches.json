@@ -1,15 +1,15 @@
 {
   "matches": [
     {
-      "team1": "21برشلونة",
-      "team2": "23ريال مدريد",
-      "team1_logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/4/47/FC_Barcelona_%28crest%29.svg/500px-FC_Barcelona_%28crest%29.svg.png?utm_source=ar.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "team2_logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/5/56/Real_Madrid_CF.svg/500px-Real_Madrid_CF.svg.png?utm_source=ar.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "team1": "الحزائر",
+      "team2": "مصر",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png?utm_source=ar.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/330px-Flag_of_Egypt.svg.png?utm_source=ar.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "time": "21:00",
       "status": "لم تبدأ",
       "league": "الدوري الإسباني",
-      "channel": "beIN Sports",
-      "type": "club",
+      "channel": "beIN Sports 2",
+      "type": "national",
       "stream_url_1": "http://alpha6-tx.me/play/live.php?mac=00:1A:79:7B:8B:39&stream=1917215&extension=m3u8&play_token=61Qz9x1f54",
       "stream_url_2": "http://ziggo.pro/play/live.php?mac=00:1A:79:AE:8A:62&stream=144108&extension=m3u8&play_token=fPJyDBi5GQ"
     },
