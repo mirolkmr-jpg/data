@@ -1,10 +1,10 @@
 {
   "matches": [
     {
-      "team1": "الحزائر",
+      "team1": "الجزائر",
       "team2": "إيطاليا",
-      "team1_logo": "aign=parser&utm_content=thumbnail",
-      "team2_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/330px-Flag_of_Egypt.svg.png?utm_source=ar.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "team1_logo": "الجزائر",
+      "team2_logo": "ايطاليا",
       "time": "21:00",
       "status": "لم تبدأ",
       "league": "الدوري الإسباني",
