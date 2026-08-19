@@ -16,19 +16,19 @@
       "stream_url_2": "http://204.52.191.254/play/live.php?mac=00:1A:79:7E:CD:65&stream=706537&extension=m3u8&play_token=Phqqhgh5wT"
     },
     {
-      "team1": "بوليفار",
-      "team2": "ساو باولو",
-      "team1_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Escudo_de_Club_Bol%C3%ADvar.svg/1280px-Escudo_de_Club_Bol%C3%ADvar.svg.png?utm_source=ar.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-      "team2_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Logo_of_S%C3%A3o_Paulo_Futebol_Clube_%28without_the_stars%29.svg/500px-Logo_of_S%C3%A3o_Paulo_Futebol_Clube_%28without_the_stars%29.svg.png?utm_source=ar.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "time": "1:30",
+      "team1": "برشلونة",
+      "team2": "الأهلي",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/4/47/FC_Barcelona_%28crest%29.svg/500px-FC_Barcelona_%28crest%29.svg.png?utm_source=ar.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/fr/b/b8/Logo_Al_Ahly.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "time": "20:00",
       "date": "2026-08-19",
       "status": "لم تبدأ",
-      "league": "1كوبا أمريكانا",
-      "channel": "beIN SPORTS 1",
-      "commentator": "عصام الشوالي",
+      "league": "مباراة ودية",
+      "channel": "ON SPORTS Plus",
+      "commentator": "أيمن الكاشف",
       "type": "club",
-      "stream_url_1": "http://alpha6-tx.me/play/live.php?mac=00:1A:79:7B:8B:39&stream=1917215&extension=m3u8&play_token=61Qz9x1f54",
-      "stream_url_2": "http://ziggo.pro/play/live.php?mac=00:1A:79:AE:8A:62&stream=846576&extension=m3u8&play_token=SI2DqfMB00"
+      "stream_url_1": "http://ziggo.pro/play/live.php?mac=00:1A:79:AE:8A:62&stream=1013666&extension=m3u8&play_token=iIXDivRzZo",
+      "stream_url_2": ""
     }
   ]
 }
